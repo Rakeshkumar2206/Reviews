@@ -1,12 +1,26 @@
-<span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cd My Profile/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->RakeshKumar.txt<br/><br/>
-My favorite quote, "<span id="k">Privacy is more important than Virginity</span>". <!-- sjkfhskjf -->
+<span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cd Reviews <!-- kjsdfhkjdhsfkjdshfkj -->IEM
+<span id="a">Rakesh@Kumar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Reviews.txt<br/><br/>
+Review Title, "<span id="k">Airpod's Pro vs Blon Bl03</span>". <!-- sjkfhskjf -->
 
-Hey There! This is my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see all the specifics about me, over here.</p>
-<p>Hi, My name is Rakesh Kumar </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Myself a noob in Computer programming and algorithms, but I have a high density knowledge over computer hardware and in computer security. I did my under graduate in B.A Criminology and Police Administration and currently pursuing my masters in MCA with Information Security. 
-<p> My passion is to work in the computer security and privacy related domain and I also love to build computers, I have built more than dozen of them till date and will try to build more.
-<p> My hobbies are gaming, exploring food and building mechanical keyboards this is a whole new addiction to be honest. 
+Hey There! Welcome to my Review section, where<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see all the reviews of the products which i have used.</p>
+<p>First Let's talk about IEM </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>In Ear Monitor's are commonly known as IEM. These things are used by professional musicians to audiophiles to hear the exact representation of the audio which was intended to produce. They are made to give natural and warm sound and IEM's always tend to reproduce the exact sound made by the musicians. So these are acurate and good AF. 
+
+Now Lets talk about the star of the show, "<span id="k"> Blon Bl03</span>". <!-- sjkfhskjf -->
+<p> The Blon Bl03 is a Chifi IEM made by Linsoul audio, techincally they are not the creators but they are the only known distributors of this Specific IEM. Linsoul Audio sells many brands liek Kz's,TIN, Moondrop and much more. Blon is an another to their portfolio.
+So what makes blon's special. I still remember placing the order for this IEM and waiting for it with excitement and recieved it like 4 days later. The first impression while unboxing this IEM was when i picked up those monitors, I felt like it was made with some kinda of earthly crafted material, It felt like it was made by some kinda japanese artisan. The monitors felt smooth and cold to touch and felt densely packed and had a respectable amount of weight to it and it realy gave me some kinda lucrative and aristocratic feel to it. I Never expected this from a Rs.2,000 IEM's. Then i started plugging in the cheap cable it came with and all set and started to play some of my WAV files using my ipad to get the real High fidelity experience as a beginer and i totally got suprised the first thing i noticed was the clarity I got from the montior's it was clear AF. The tonality was on point and the sound it produced was really warm. 
+
+"<span id="k">Sound Staging </span>". <!-- sjkfhskjf -->
+
+<p>The sound staging and speration was insanely good where i was able to expereince each and every instrument being played and the voice flowing through the instruments and reaching my ears in a smooth manner.
+
+"<span id="k"> Tonality </span>". <!-- sjkfhskjf -->
+<p>The Sound tonality was really insane and it felt like we were experiencing the audio in real time. It felt like we were in some kinda of real concert but we were still sitting at my home munching some barfi. The tonality was in accurate representation you will never get this kinda of tonality from a sub Rs.20,000 earphone. Thanks to the guy who tuned this earphone. he has done a wonderful job.
+
+"<span id="k"> Important Misc</span>". <!-- sjkfhskjf -->
+
+<p> The next big thing in this earphone was the bass response. I'am a avid bass lover and i think that bass is a thing which make some normal lousy songs to a energetic song. So i love bass a lot and this IEM was a no brainer for a bass lover, don't get me wrong this earphone does't boost any audio or pump any extra bass out of those drivers. It provides bass which is lot crispier and stronger. Not your average earphones which kinda produce it mushier and muddier.  
+
 <p>Relation ship status is currently single and would love to maintain that for a few more years. <br><br><br>You can view my grizzly printed face at Instagram . <a href="https://www.instagram.com/localhost_192.168.0.1/?hl=en"> Here you go</a>.</p><!-- Instagram ID -->
 <p> Follow me on Reddit here: <br> <a href="https://www.reddit.com/user/TTV_DINAKARAN">Reddit</a> 
 <p> You can listen to my Podcasts here: <br> <a href="https://anchor.fm/rakesh-kumar0728">REFRESHNOLOGY</a> 
