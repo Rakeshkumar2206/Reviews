@@ -32,5 +32,25 @@ Now Lets talk about the star of the show, "<span id="k"> Blon Bl03</span>". <!--
 
 
 You can also contact me at<!-- slightdelayhere-->, <a href="mailto:rakeshkumar_secure@protonmail.com">here</a>
+<!-- Font Awesome Icon Library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<table>
+  <tr>
+    <th style="width:50%">Features</th>
+    <th>Basic</th>
+    <th>Pro</th>
+  </tr>
+  <tr>
+    <td>Blon Bl03</td>
+    <td><i class="fa fa-remove"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Airpod's Pro</td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+</table>
 
 <p>Cheers!</p>
