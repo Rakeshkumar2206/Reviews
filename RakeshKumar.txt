@@ -41,12 +41,11 @@ You can also contact me at<!-- slightdelayhere-->, <a href="mailto:rakeshkumar_s
 
 <table>
   <tr>
-    <th style="width:50%">Features</th>
-    <th>Basic</th>
-    <th>Pro</th>
+    <th style="width:50%">BLON BL03</th>
+    <th style="width:50%">AIRPODS PRO</th>
   </tr>
   <tr>
-    <td>Sample text</td>
+    <td>Tonality</td>
     <td><i class="fa fa-remove"></i></td>
     <td><i class="fa fa-check"></i></td>
   </tr>
