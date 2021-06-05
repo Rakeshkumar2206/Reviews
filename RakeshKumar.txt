@@ -35,6 +35,16 @@ You can also contact me at<!-- slightdelayhere-->, <a href="mailto:rakeshkumar_s
 <!-- Font Awesome Icon Library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<html> 
+  <head>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
+  </head> 
+  <body>
+    <div id="comp">
+      
+     <h2>Comparison Table</h2>
+
 <table>
   <tr>
     <th style="width:50%">Features</th>
@@ -42,15 +52,36 @@ You can also contact me at<!-- slightdelayhere-->, <a href="mailto:rakeshkumar_s
     <th>Pro</th>
   </tr>
   <tr>
-    <td>Blon Bl03</td>
+    <td>Sample text</td>
     <td><i class="fa fa-remove"></i></td>
     <td><i class="fa fa-check"></i></td>
   </tr>
   <tr>
-    <td>Airpod's Pro</td>
+    <td>Sample text</td>
     <td><i class="fa fa-check"></i></td>
     <td><i class="fa fa-check"></i></td>
   </tr>
-</table>
+  <tr>
+    <td>Sample text</td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Sample text</td>
+    <td><i class="fa fa-remove"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td>Sample text</td>
+    <td><i class="fa fa-check"></i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+</table> 
+      
+      
+      </div>
+  </body> 
+</html> 
+
 
 <p>Cheers!</p>
