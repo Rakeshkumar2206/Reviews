@@ -33,6 +33,10 @@ a {
     	animation: change 1s;
 }
 
+ul.a {
+  list-style-type: circle;
+}
+
 #op{
     	color: #888888
 }
