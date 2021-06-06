@@ -45,8 +45,31 @@ Now Lets talk about the competitor, "<span id="k">Airpods Pro </span>". <!-- sjk
 <p>All though air pod’s had many draw backs, I loved some of the things it had like the ANC, these were packed inside air pod’s pro which was really good the noise isolation was perfect and it had transparency made to flush some environmental noise in while you are walking in a busy road for your safety, the noise cancellation is a major advantage of the pro’s. The integration with apple devices was too good like every other apple device. 
 <p>Then considering the price range of 25,000Rs for a set of earphones which lacks all the basic quality of blon’s. I would definitely not recommend this to an audiophile but for an average user, who is already inside the apple ecosystem and want the best in class ANC and features like spatial audio and extra goodies, can get these. But these are not worth for the price you pay, but definetly a good buy considering the features it packs.
 
+<h2>BLON Bl03</h2>
+<p>Pro's:</p>
+<ul class="a">
+  <li>Price</li>
+  <li>Tonality & Bass </li>
+  <li>Looks</li>
+</ul>
+<p>Con's:</p>
+<ul class="a">
+  <li>Fit </li>
+  <li>Wire & Eartips </li>
+  <li>Bass might feel Bloated sometimes</li>
 
-
+<h2>Airpod's Pro</h2>
+<p>Pro's:</p>
+<ul class="a">
+  <li>Active noise Cancellation</li>
+  <li>Ecosystem integration</li>
+  <li>Wireless</li>
+</ul>
+<p>Con's:</p>
+<ul class="a">
+  <li>Sound quality & Bass</li>
+  <li>Power output</li>
+  <li>Connectivity Issues</li>
 You can also contact me at<!-- slightdelayhere-->, <a href="mailto:rakeshkumar_secure@protonmail.com">here</a>
 
 <p>Cheers!</p>
